@@ -35,12 +35,12 @@ Instead of traditional insurance:
 
 ## ⚙️ Workflow
 
-1. 📝 User registers and selects a weekly plan  
-2. 🤖 AI calculates premium based on risk  
-3. 🌍 System monitors real-time external conditions  
-4. 🔔 If disruption threshold is met → claim auto-triggered  
-5. 🛡️ Fraud detection checks applied  
-6. 💵 Instant payout processed  
+1. User registers and selects a weekly plan  
+2. AI calculates premium based on risk  
+3. System monitors real-time external conditions  
+4. If disruption threshold is met → claim auto-triggered  
+5. Fraud detection checks applied  
+6. Instant payout processed  
 
 ---
 
@@ -53,9 +53,6 @@ Instead of traditional insurance:
 | 🏭 Pollution | AQI > 300 | Compensation |
 | 🚨 Curfew | Govt restriction | Full payout |
 
-📌 Note: Only **income loss** is covered (not health/vehicle damage).
-
----
 
 ## 💰 Weekly Premium Model
 
@@ -71,17 +68,17 @@ Instead of traditional insurance:
 ## 🤖 AI/ML Integration
 
 ### 1. Risk Prediction
-- 📊 Predicts likelihood of disruptions  
-- 🔄 Adjusts premium dynamically  
+- Predicts likelihood of disruptions  
+- Adjusts premium dynamically  
 
 ### 2. Fraud Detection
-- 📍 GPS validation  
-- 🗂️ Duplicate claim detection  
-- 🕵️ Behavioral anomaly detection  
+- GPS validation  
+- Duplicate claim detection  
+- Behavioral anomaly detection  
 
 ### 3. Smart Trigger Engine
-- ⏱️ Real-time API monitoring  
-- ⚡ Auto claim initiation  
+- Real-time API monitoring  
+- Auto claim initiation  
 
 ---
 
@@ -111,71 +108,71 @@ Instead of traditional insurance:
 
 ## 📊 Features
 
-- 🤖 AI-based premium calculation  
-- 🖱️ Zero-touch claim processing  
-- 🌍 Real-time disruption tracking  
-- 🛡️ Fraud detection system  
-- 💸 Instant payout simulation  
-- 📈 Analytics dashboard  
+- AI-based premium calculation  
+- Zero-touch claim processing  
+- Real-time disruption tracking  
+- Fraud detection system  
+- Instant payout simulation  
+- Analytics dashboard  
 
 ---
 
 ## 📈 Dashboard
 
 ### Worker View:
-- 💵 Earnings protected  
-- ✅ Active coverage  
-- 📜 Claim history  
+- Earnings protected  
+- Active coverage  
+- Claim history  
 
 ### Admin View:
-- 📊 Risk analytics  
-- 📉 Claim trends  
-- 📑 Loss ratios  
+- Risk analytics  
+- Claim trends  
+- Loss ratios  
 
 ---
 
 ## 🔒 Fraud Prevention
 
-- 📍 GPS tracking validation  
-- 🔗 API cross-verification  
-- ⏰ Time & activity checks  
-- 🗂️ Duplicate claim prevention  
+- GPS tracking validation  
+- API cross-verification  
+- Time & activity checks  
+- Duplicate claim prevention  
 
 ---
 
 ## 📱 Platform Choice
 
 **Mobile-first approach**
-- 📲 Easy accessibility for gig workers  
-- 🌍 Real-time tracking capabilities  
-- 🎯 Better user experience  
+- Easy accessibility for gig workers  
+- Real-time tracking capabilities  
+- Better user experience  
 
 ---
 
 ## 🗺️ Development Plan
 
 ### Phase 1 (Ideation)
-- 🧠 Problem understanding  
-- 📝 Workflow design  
-- 🛠️ Basic prototype  
+- Problem understanding  
+- Workflow design  
+- Basic prototype  
 
 ### Phase 2 (Automation)
-- 🤖 AI integration  
-- ⚡ Claim automation  
-- 🔗 API integration  
+- AI integration  
+- Claim automation  
+- API integration  
 
 ### Phase 3 (Scaling)
-- 🛡️ Fraud detection  
-- 📊 Dashboard  
-- 💸 Payment simulation  
+- Fraud detection  
+- Dashboard  
+- Payment simulation  
 
 ---
 
 ## 🎯 Innovation Highlights
 
-- ⚡ Fully automated insurance (no manual claims)  
-- 📍 Hyper-local AI pricing  
-- 🌪️ Real-time parametric triggers  
+- Fully automated insurance (no manual claims)  
+- Hyper-local AI pricing  
+- Real-time parametric triggers  
 - 🇮🇳 Designed for India’s gig workforce  
 
 ---
@@ -191,8 +188,8 @@ Instead of traditional insurance:
 ---
 
 ## 👨‍💻 Team
-- Your Name  
-- Team Members  
+- Hackmates  
+- Members :- Ruhani, Sneha, Vidisha, Manasvi, Disha 
 
 ---
 
