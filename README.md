@@ -9,13 +9,13 @@ India’s gig economy workers (Zomato, Swiggy, Amazon, etc.) frequently suffer i
 **InsurAI** is an AI-powered parametric insurance platform that provides **automatic income protection** for delivery workers.
 
 Instead of traditional insurance:
-- ❌ No manual claim filing  
-- ❌ No complex verification  
+- No manual claim filing  
+- No complex verification  
 
 👉 Our system:
-- 📡 Detects disruptions in real-time  
-- ⚡ Automatically triggers claims  
-- 💸 Instantly processes payouts  
+- Detects disruptions in real-time  
+- Automatically triggers claims  
+- Instantly processes payouts  
 
 ---
 
@@ -27,9 +27,9 @@ Instead of traditional insurance:
 - Depends on daily working hours  
 
 ### Pain Points:
-- 🌧️ Income drops during rain, heatwaves, pollution  
-- 🚫 No compensation for missed work  
-- 💔 Financial instability  
+- Income drops during rain, heatwaves, pollution  
+- No compensation for missed work  
+- Financial instability  
 
 ---
 
@@ -60,8 +60,8 @@ Instead of traditional insurance:
 - AI-based dynamic pricing  
 
 ### Example:
-- 🟢 Low-risk area → ₹20/week  
-- 🔴 High-risk area → ₹50/week  
+- Low-risk area → ₹20/week  
+- High-risk area → ₹50/week  
 
 ---
 
