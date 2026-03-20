@@ -183,7 +183,7 @@ Instead of traditional insurance:
 ---
 
 ## 📦 GitHub Repository
-[Add your repository link here]
+[View Project](https://github.com/ruhani-gupta/insurai)
 
 ---
 
